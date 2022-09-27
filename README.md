@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 my name is Vincent.
+
+I am a student at Ghent university. Currently I am following two programms:
+
+1. Biomedical Engineering (third year)
+2. Phyisics and Astronomy (individualized trac)
+
+This account is created with my university credentials and serves for course projects.
 
 <!--
 **vbelpair/vbelpair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
