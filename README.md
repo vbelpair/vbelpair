@@ -1,8 +1,8 @@
-### Hi there 👋 my name is Vincent.
+### Hi there 👋 my name is Vincent Belpaire.
 
 I am a student at Ghent university. Currently I am following two programms:
 
-1. Biomedical Engineering (third year)
+1. Biomedical Engineering (second master year)
 2. Phyisics and Astronomy (individualized trac)
 
 This account is created with my university credentials and serves for course projects.
